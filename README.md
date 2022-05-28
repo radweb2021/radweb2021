@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @radweb2021
-- 👀 I’m interested in html and css
-- 🌱 I’m currently learning laravel
+- 👋 Hi, I’m Radin saleh
+- 👀 I’m interested in web disign
+-     i can create web sites 
 
 <!---
 radweb2021/radweb2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
